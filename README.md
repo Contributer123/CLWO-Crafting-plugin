@@ -14,3 +14,7 @@ index.php contains the view, and there we call a single function in models/calcu
 
 
 If you have any questions, mail me
+
+You may use this code and distribute it as you want, i dont care. 
+
+If you share this code, better dont mention me, since i did not put much effor into dokumentation or style.
